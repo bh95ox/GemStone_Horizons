@@ -1,0 +1,4 @@
+repository "GemStone_Hozizons@bh95ox@cloud"
+  path "/"
+    br "/main"
+    co "/main"
